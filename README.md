@@ -5,9 +5,8 @@
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   8 hrs 8 mins    ███████████████▓░░░░░░░░░   62.02 %
-Python       4 hrs 57 mins   █████████▒░░░░░░░░░░░░░░░   37.84 %
-Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
+TypeScript   5 hrs 42 mins   █████████████▒░░░░░░░░░░░   53.35 %
+Python       4 hrs 59 mins   ███████████▓░░░░░░░░░░░░░   46.63 %
 Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
